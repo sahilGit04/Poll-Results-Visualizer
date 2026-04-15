@@ -31,17 +31,17 @@ python -m streamlit run app.py
 ## 📸 Output Preview
 
 ### Dashboard
-![Dashboard](images/dashboard.png)
+![Dashboard](./images/dashboard.png)
 
 ### Charts
-![histogram](images/histogram.png)
+![histogram](./images/histogram.png)
 
 ### Analysis
-![Heatmap](images/heatmap.png)
-![Trend](images/trend.png)
-![insights](images/insights.png)
-![pie chart](images/pie_chart.png)
+![Heatmap](./images/heatmap.png)
+![Trend](./images/trend.png)
+![insights](./images/insights.png)
+![pie chart](./images/pie_chart.png)
 
 ## 🎥 Demo Video
 
-[Watch Demo](images/demo.mp4)
+[Watch Demo](./images/demo.mp4)
