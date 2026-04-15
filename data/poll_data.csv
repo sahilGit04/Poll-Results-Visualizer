@@ -1,0 +1,17 @@
+id,date,question,choice,region,age_group
+1,2026-01-01,Preferred Platform,YouTube,North,18-25
+2,2026-01-01,Preferred Platform,Coursera,South,26-35
+3,2026-01-02,Preferred Platform,YouTube,West,18-25
+4,2026-01-02,Preferred Platform,Udemy,East,36-45
+5,2026-01-03,Preferred Platform,YouTube,North,26-35
+6,2026-01-03,Preferred Platform,Coursera,South,18-25
+7,2026-01-04,Preferred Platform,Udemy,West,26-35
+8,2026-01-04,Preferred Platform,YouTube,East,18-25
+9,2026-01-05,Preferred Platform,Coursera,North,18-25
+10,2026-01-05,Preferred Platform,Udemy,South,26-35
+11,2026-01-06,Preferred Platform,YouTube,West,18-25
+12,2026-01-06,Preferred Platform,YouTube,East,26-35
+13,2026-01-07,Preferred Platform,Coursera,North,36-45
+14,2026-01-07,Preferred Platform,Udemy,South,18-25
+15,2026-01-08,Preferred Platform,YouTube,West,26-35
+16,2026-01-08,Preferred Platform,Coursera,East,18-25
